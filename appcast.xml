@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DockPet</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Mon, 29 Jun 2026 14:26:02 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.1/DockPet-0.0.1.dmg" length="3695734" type="application/octet-stream" sparkle:edSignature="fbzU0ZTSfZOw3TGO8AfF4S/1NETFO8Ib/UNQi35Hmdw/pFXkkArEJfbkIYRBQ1Qj0gm4t6oltQQIdbW0mCarAw=="/>
+        </item>
+    </channel>
+</rss>
