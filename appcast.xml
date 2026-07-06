@@ -3,13 +3,26 @@
     <channel>
         <title>DockPet</title>
         <item>
+            <title>0.0.3</title>
+            <pubDate>Tue, 07 Jul 2026 00:00:31 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.3/DockPet-0.0.3.dmg" length="3698801" type="application/octet-stream" sparkle:edSignature="YsQWJ6PNfyerUCGWK5NYixTYmScvB+dor1Qf0uQLsLYBgJKhFvnJ3LmIFsO7z/JH4YF7HCGueWNqHTMjkdHECw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.3/DockPet3-2.delta" sparkle:deltaFrom="2" length="1518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1RH1n0Nqu++3aq/NXm5cgDF9a3iyUuKxeyzdOfFJ2yffnMxcF8qsRHAy8daF0le70w4h3ee3jxJN6/kGSRT8CQ=="/>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.3/DockPet3-1.delta" sparkle:deltaFrom="1" length="73970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ee0g/3xWEINV5v2XOVT7AC6FMsym4U3t5YXf6kO1UacMQY+ziV4wq6VUnTlnpu7hMV5JYzPaEtrNKuI5MLgPDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.2</title>
             <pubDate>Fri, 03 Jul 2026 13:56:11 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.2/DockPet-0.0.2.dmg" length="3698718" type="application/octet-stream" sparkle:edSignature="RGPLKaFo+Wv5coOUJLFARWQKtvjejP3o6xLwa3ALp2ggCzpp9gbfeyjKlkw2fcRq2M+T2fH1TXkfS4X/QzxDDQ=="/>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.3/DockPet-0.0.2.dmg" length="3698430" type="application/octet-stream" sparkle:edSignature="JA5f8pXyfCw3KsTd4DDiHXWJx39P2iZ5mf7UKnrsUMCbWH2YxQJ7YOw4BHIbApyXS+Jlzth1rfuxDw8y+DzMDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.2/DockPet2-1.delta" sparkle:deltaFrom="1" length="71222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pkQcfeHi2+2RcbTZ0pf5tCj7Ut8NSQGGVHHVo21PTPGkCSg1eLTmLbKf7dXBC1JS/FUcL5D5Iw2tjnOf5B7ZAQ=="/>
             </sparkle:deltas>
@@ -21,7 +34,7 @@
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.2/DockPet-0.0.1.dmg" length="3695734" type="application/octet-stream" sparkle:edSignature="fbzU0ZTSfZOw3TGO8AfF4S/1NETFO8Ib/UNQi35Hmdw/pFXkkArEJfbkIYRBQ1Qj0gm4t6oltQQIdbW0mCarAw=="/>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.0.3/DockPet-0.0.1.dmg" length="3695734" type="application/octet-stream" sparkle:edSignature="fbzU0ZTSfZOw3TGO8AfF4S/1NETFO8Ib/UNQi35Hmdw/pFXkkArEJfbkIYRBQ1Qj0gm4t6oltQQIdbW0mCarAw=="/>
         </item>
     </channel>
 </rss>
