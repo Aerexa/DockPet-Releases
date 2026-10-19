@@ -3,13 +3,29 @@
     <channel>
         <title>DockPet</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Mon, 19 Oct 2026 15:17:28 +0700</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet-0.2.4.dmg" length="4079017" type="application/octet-stream" sparkle:edSignature="iaqHVj5q7RmFtyfLsWwkjm2TLUtS2degZWhvl/mRO/r1BVMF4u8eDoT1/SeJOpRA40f9GpFpOKv7+NJnsf3DBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet13-12.delta" sparkle:deltaFrom="12" length="202658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iJk76bnn58w/eR1xGHY5v/iUycLDy10i1O5PhzyHsUestDyc/2WcxcO3J+U4Sb0SLmdoo2MCQifaojYyBbAYBg=="/>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet13-11.delta" sparkle:deltaFrom="11" length="261914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n/h0cXTwk/AmBRlRU1rMNcc52q7i8xkRV8UJ9zlKLkgtDrq3cjf2k8fRovHrzM/Gh0CkAjft1fJSn1ZsphmxDQ=="/>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet13-10.delta" sparkle:deltaFrom="10" length="285214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AG96OV3+nTQDH0GrGsD6yVc3mJ0unsth3H+GSLBNkpzUr3zQRsbMD/+Z8/kN++ZIzKLI4hJkMZG2tu9KJB9gDA=="/>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet13-9.delta" sparkle:deltaFrom="9" length="355322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+DAwfQTzQwuisTtVTfaZKbRRouiVFi6VfV9bcAMpf0/NSXEtrAb087do/iFSBQcySspntbL3CLSa8+cW8Tj5BQ=="/>
+                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet13-8.delta" sparkle:deltaFrom="8" length="402270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M4uY1lYtKc020cPS2ZKr5B73JrRjUcmnMaqeYJEiqCeSmN2fie/dohWnMtcuIm3r5LB12yKfe0VPSKW8S3vgCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Thu, 08 Oct 2026 11:59:56 +0700</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.3/DockPet-0.2.3.dmg" length="3998743" type="application/octet-stream" sparkle:edSignature="F5f6ZReOCBS+Vd/7Y7D3EUf7zt7fXKzIz5TfOmUbvIY/qrLJIJW5t1eVsrs9mX1IjxUveQjt41PXmzGdM7FeAQ=="/>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet-0.2.3.dmg" length="3998743" type="application/octet-stream" sparkle:edSignature="F5f6ZReOCBS+Vd/7Y7D3EUf7zt7fXKzIz5TfOmUbvIY/qrLJIJW5t1eVsrs9mX1IjxUveQjt41PXmzGdM7FeAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.3/DockPet12-11.delta" sparkle:deltaFrom="11" length="149738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UgDjyFL+YDJG8hnitpxOWDDa7py0BnPJCAbygryj5CWBVzMPS0d3ItLVeK0petKLBMD/NSdrywugxho2+TnLDQ=="/>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.3/DockPet12-10.delta" sparkle:deltaFrom="10" length="181354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2CiX+2rEI5PKP6aYh1kKXBCs8SOf0VpwPFxxLF0VBbg33ychesXvrwwktDAwbGTRSLTLiXVTe0HtjCJ7JJUBDQ=="/>
@@ -25,29 +41,13 @@
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.3/DockPet-0.2.2.dmg" length="3972826" type="application/octet-stream" sparkle:edSignature="o2xpZVBZ47DHAe9vmD2/xAJJGAmLgxsh7b7MpMKxyJHUP5ptFtqjpuZ93RQoywrvd9nY5MUdCrGwJrH0K8ROAQ=="/>
+            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.4/DockPet-0.2.2.dmg" length="3972826" type="application/octet-stream" sparkle:edSignature="o2xpZVBZ47DHAe9vmD2/xAJJGAmLgxsh7b7MpMKxyJHUP5ptFtqjpuZ93RQoywrvd9nY5MUdCrGwJrH0K8ROAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.2/DockPet11-10.delta" sparkle:deltaFrom="10" length="135350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r1cDG0cUKME6oIlAm2PUPaZ8e4+M/Lf/rj6dthdo9RV5G3DJjrbVat+mehmDBBKaFpXisAal9DcpW/G4pABPCg=="/>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.2/DockPet11-9.delta" sparkle:deltaFrom="9" length="221198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ePPYfwPO5dSny7+/Ye/9MvUyfjhw7cwL/z8EbiaoEroKH3buH1Pqs6mkwrDt5MvRsAO976DdY9cG9TuVSZOjBA=="/>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.2/DockPet11-8.delta" sparkle:deltaFrom="8" length="292122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zO3XUnK0kK0AMOkocsnbyDZASa8mHIUHwimZLNH9CguYFu/uS8IWhrNVjDoxrJf9IoAGH8XswHEYPm4yNVSuCA=="/>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.2/DockPet11-7.delta" sparkle:deltaFrom="7" length="307070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sttntRovUt6Oof1/3WnMGZU328SIqtuLoQ66kZfofYP3A5RUma13PosMXb9Iy9Rd76m9ATze/5+6bkhtvFK+BA=="/>
                 <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.2/DockPet11-6.delta" sparkle:deltaFrom="6" length="333510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dcr8wTwlZGa0MzD37H1l5JENgjx0hrirttqsJtskoWg3XWdwMomjNv/qzWIBC9cQeEkqWm5A+A+M1nAhvJ2GAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 08 Oct 2026 09:22:20 +0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.3/DockPet-0.2.1.dmg" length="3952468" type="application/octet-stream" sparkle:edSignature="PiUNeE4/2UBAwh13H8JhiWJGq3NPp/lyAvYeLvRAtqNkZwOfjxceHdDR89CJPGhUFIVW26CDneoN+Q4wh1PeCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.1/DockPet10-9.delta" sparkle:deltaFrom="9" length="181470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gNRdvCwM24SDphSDX+P1gBs6KSXjM1AA1ltDnkvfyFoX+jiOp2besf33M+B/eSU271wBcIgRFsQFId9+5AyyBQ=="/>
-                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.1/DockPet10-8.delta" sparkle:deltaFrom="8" length="259546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6oj8aJOP9nlmBrHhjVIc4cFOWDep3Pab+IJkGWgjy2DEe+2L/IMp9z6qwqdRAALaT2JtVZsmWD7SttMdrkaxDA=="/>
-                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.1/DockPet10-7.delta" sparkle:deltaFrom="7" length="274174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CwdI+MQSxIG3JWEtVJ3Yq7TqWMo14xBVuCvbjRR1NmGUcb1kgv1ETN9todJTmeViLoPQaD2I5eusWit3jD4WDA=="/>
-                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.1/DockPet10-6.delta" sparkle:deltaFrom="6" length="302534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NIfoSNTpwmdwRY8k48vzfRPdV3OLP8pTqh1+VWdDw/EZfoWdk20v1jwHX1Bf5kD3THg/UbTYsqrROzk1rfpUBA=="/>
-                <enclosure url="https://github.com/Aerexa/DockPet-Releases/releases/download/v0.2.1/DockPet10-5.delta" sparkle:deltaFrom="5" length="327202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977824" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="peckzdrhO1QamrDij5tFUWk/F3ODo/hG49GilPxQhKFrh4ZQOtPEjQEXjPBTG/W4VrYFfZXL3bOaroB8UyhhDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
